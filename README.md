@@ -10,6 +10,7 @@ I am familiar to the following graphic programs:
 - Paint
 - OpenCanvas7
 - mdiapp+ SE
+- OpenToonz
 
 <!---
 MellowTheMarshmallowCat/MellowTheMarshmallowCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
